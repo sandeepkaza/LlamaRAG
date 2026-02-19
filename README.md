@@ -111,8 +111,8 @@ rag-system/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-system.git
-cd rag-system
+git clone https://github.com/sandeepkaza/LlamaRAG.git
+cd LlamaRAG
 
 python -m venv .venv
 
